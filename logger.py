@@ -56,3 +56,15 @@ logger.info('info message')
 logger.warning('warning message')
 logger.error('error message')
 logger.critical('critical message')
+
+#############################################
+
+import traceback
+
+# 打印堆栈信息
+traceback.print_stack()
+
+import sys
+
+# 当前输出文件和行号
+print("\033[0;31m[%s@%s]\033[0m" % (__file__, sys._getframe().f_lineno), "test")
