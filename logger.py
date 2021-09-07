@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+#
+# @Description:
+# @PreInstall:
+# @Author : https://www.bajins.com
+# @File : logger.py
+# @Version: 1.0.0
+# @Time : 2020/1/11 22:09
+# @Project: python_learning
+# @Package:
+# @Software: PyCharm
 """
 Logger 暴露了应用程序代码能直接使用的接口。
 Filter提供了更好的粒度控制，它可以决定输出哪些日志记录。

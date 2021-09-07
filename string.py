@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+#
+# @Description:
+# @PreInstall:
+# @Author : https://www.bajins.com
+# @File : string.py
+# @Version: 1.0.0
+# @Time : 2020/1/11 22:09
+# @Project: python_learning
+# @Package:
+# @Software: PyCharm
 import random
 
 # 随机大于0 且小于1 之间的小数
