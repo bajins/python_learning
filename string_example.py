@@ -4,7 +4,7 @@
 # @Description:
 # @PreInstall:
 # @Author : https://www.bajins.com
-# @File : string.py
+# @File : string_example.py
 # @Version: 1.0.0
 # @Time : 2020/1/11 22:09
 # @Project: python_learning
